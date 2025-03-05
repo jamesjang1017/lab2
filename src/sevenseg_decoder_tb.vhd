@@ -41,4 +41,5 @@ architecture Behavioral of sevenseg_decoder_tb is
 begin
 
 
+
 end Behavioral;
